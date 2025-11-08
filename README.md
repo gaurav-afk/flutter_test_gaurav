@@ -4,6 +4,12 @@ A **mini social media app built with Flutter** that allows users to create posts
 
 ---
 
+## 📀 Demo
+
+https://github.com/user-attachments/assets/cb8d4036-7d2f-41a7-8d6e-5100e8d8cdcb
+
+
+
 ## 🚀 Features
 
 - **Login & Persistence** – Simple email login, saved locally.  
