@@ -37,3 +37,22 @@ A **mini social media app built with Flutter** that allows users to create posts
 ## 📂 Project Structure
 
 <img width="294" height="385" alt="Screenshot 2025-11-08 at 9 43 14 PM" src="https://github.com/user-attachments/assets/6699ce6e-f2fa-4ec3-a178-a04f7a7c01c5" />
+
+
+
+- **models** → Data models (`PostModel`)  
+- **providers** → State management (`FeedProvider`)  
+- **screens** → App screens (Login, Feed, Create Post)  
+- **services** → API / AI caption service  
+- **widgets** → Modular widgets (`PostWidget` and subcomponents)  
+
+---
+
+## 💻 Installation
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/yourusername/mini-social-feed.git
+cd mini-social-feed
+
