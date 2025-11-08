@@ -41,10 +41,10 @@ A **mini social media app built with Flutter** that allows users to create posts
 
 
 - **models** → Data models (`PostModel`)  
-- **providers** → State management (`FeedProvider`)  
+- **providers** → State management (`AuthProvider`,`FeedProvider`)  
 - **screens** → App screens (Login, Feed, Create Post)  
 - **services** → API / AI caption service  
-- **widgets** → Modular widgets (`PostWidget` and subcomponents)  
+- **widgets** → Modular widgets (`PostWidget`)  
 
 ---
 
