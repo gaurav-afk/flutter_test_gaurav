@@ -24,6 +24,7 @@ A **mini social media app built with Flutter** that allows users to create posts
 
 ## 🛠 Tech Stack
 
+
 - **Flutter** – Frontend UI  
 - **Provider** – State management  
 - **SharedPreferences** – Local data storage  
@@ -35,3 +36,4 @@ A **mini social media app built with Flutter** that allows users to create posts
 
 ## 📂 Project Structure
 
+<img width="294" height="385" alt="Screenshot 2025-11-08 at 9 43 14 PM" src="https://github.com/user-attachments/assets/6699ce6e-f2fa-4ec3-a178-a04f7a7c01c5" />
